@@ -27,10 +27,10 @@ A Next.js + TypeScript project with **SEO best practices** including:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shokhruzisroilov/SEO-frontend-ts-nextjs.git
+https://github.com/shokhruzisroilov/seo-frontend-ts-nextjs.git
 ```
 ```
-cd SEO-frontend-ts-nextjs
+cd seo-frontend-ts-nextjs
 ```
 
 2. Install dependencies:
