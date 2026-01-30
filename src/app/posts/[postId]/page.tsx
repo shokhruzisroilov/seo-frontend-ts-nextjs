@@ -1,3 +1,9 @@
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+	title: 'Blog ',
+}
+
 import { delay } from '@/lib/utils'
 import { BlogPost } from '@/models/BlogPost'
 
